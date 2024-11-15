@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I am Atharva and I'm a Indian software developer.</h1>
+<h1 align="left">Hi 👋! I am Atharva and I'm an Indian software developer.</h1>
 
 🛜 Currently working on my own webpage<br>👨🏼‍🎓 Done my B.Tech in 2024<br>👨🏼‍💻 Working for software dev role<br>🎬 Just started out with cloud technologies, exploring AWS now
 
